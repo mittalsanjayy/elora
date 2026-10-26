@@ -5,7 +5,7 @@ export const brand = {
   name: 'ELORA', slogan: 'Your Vision, Our Creation.',
   whatsapp: '9986744631', // country code + number, digits only
   email: 'elora.webdevelopment@gmail.com', phone: '9986744631', location: 'Bengaluru, India',
-  social: [{ label: 'Instagram', href: '**https://www.instagram.com/elora.webdesign/**' }, { label: 'LinkedIn', href: 'https://linkedin.com' }, { label: 'GitHub', href: 'https://github.com/mittalsanjayy' }],
+  social: [{ label: 'Instagram', href: 'https://www.instagram.com/elora.webdesign/' }, { label: 'LinkedIn', href: 'https://linkedin.com' }, { label: 'GitHub', href: 'https://github.com/mittalsanjayy' }],
 }
 export const nav = [['Home', '#home'], ['Services', '#services'], ['Our Work', '#work'], ['About', '#about'], ['Contact', '#contact']]
 
